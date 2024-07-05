@@ -14,7 +14,7 @@ This is a video demonstration on how to deploy a desktop background to a user ac
 
   <h2>Video Demonstration</h2>
 
-- ### [YouTube: Active Directory - Deploying a Desktop Background to a Domain using a GPO](https://youtu.be/CJE61_ezIQY)
+- ### [YouTube: Active Directory - Deploying a Desktop Background to a Domain using a GPO](https://youtu.be/fhGpQ9gk3_U)
 
 <h2>User account background before the GPO is applied</h2>
 
