@@ -2,9 +2,9 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Deploying a desktop background to a domain using a Group Policy Object</h1>
+<h1>Deploying a Desktop Background to a Domain using a Group Policy Object (GPO)</h1>
 
-This is s video demonstration on how to deploy a desktop background to a user account in your domain using a Group Policy Object (GPO). Click link below to watch.<br />
+This is a video demonstration on how to deploy a desktop background to a user account in your domain using a Group Policy Object (GPO). Click link below to watch the video.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -14,7 +14,7 @@ This is s video demonstration on how to deploy a desktop background to a user ac
 
   <h2>Video Demonstration</h2>
 
-- ### [YouTube: Active Directory - Unlock Account and Reset Password](https://youtu.be/CJE61_ezIQY)
+- ### [YouTube: Active Directory - Deploying a Desktop Background to a Domain using a GPO](https://youtu.be/CJE61_ezIQY)
 
 <h2>User account background before the GPO is applied</h2>
 
