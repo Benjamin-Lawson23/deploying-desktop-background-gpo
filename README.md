@@ -23,7 +23,7 @@ This is s video demonstration on how to deploy a desktop background to a user ac
 The standard Windows desktop background can be seen because there is no GPO being applied at this point. 
  
   <p>
-<img src="https://imgur.com/EeWQTis.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DxFO9gw.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
 
@@ -32,7 +32,7 @@ The standard Windows desktop background can be seen because there is no GPO bein
 A new desktop background has been applied to this User account using a GPO. Please click the link above to watch a demonstration of how to create and apply this GPO. 
 
   <p>
-<img src="https://imgur.com/rRF1Q3n.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/CYUVOhr.png" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
   
